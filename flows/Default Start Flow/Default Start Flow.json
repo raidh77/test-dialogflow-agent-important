@@ -12,7 +12,7 @@
         "languageCode": "en"
       } ]
     },
-    "name": "7a641458-94d7-4779-8697-1c1978b06b36"
+    "name": "ce011f88-7717-42aa-b77c-68b070592f1d"
   } ],
   "eventHandlers": [ {
     "event": "sys.no-match-default",
@@ -24,7 +24,7 @@
         "languageCode": "en"
       } ]
     },
-    "name": "71039a1d-7b59-4a53-99ee-505e719c2b43"
+    "name": "a9275635-88c2-4eb5-bedd-6fa365f23acb"
   }, {
     "event": "sys.no-input-default",
     "triggerFulfillment": {
@@ -35,10 +35,10 @@
         "languageCode": "en"
       } ]
     },
-    "name": "fa7b887c-747c-4003-ae0e-fd6c851f6f76"
+    "name": "b4fe5bde-36ce-488f-9b42-abdaa0096feb"
   } ],
   "nluSettings": {
-    "modelType": "MODEL_TYPE_STANDARD",
+    "modelType": "MODEL_TYPE_ADVANCED",
     "classificationThreshold": 0.30000001
   }
 }
