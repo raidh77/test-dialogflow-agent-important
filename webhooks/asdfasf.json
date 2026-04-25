@@ -1,0 +1,15 @@
+{
+  "name": "2164e94f-005d-4ffc-a4f9-3bc5e7637fe8",
+  "displayName": "asdfasf",
+  "genericWebService": {
+    "uri": "https://host.googleapis.com",
+    "webhookType": "STANDARD",
+    "serviceAgentAuth": "NONE",
+    "serviceAccountAuthConfig": {
+      "serviceAccount": "565127041402-compute@developer.gserviceaccount.com"
+    }
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}
