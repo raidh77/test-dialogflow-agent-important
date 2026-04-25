@@ -1,0 +1,13 @@
+{
+  "name": "b77aedf3-49d6-4de1-9bec-b082713f5f55",
+  "displayName": "holworld",
+  "openApiSpec": {
+    "authentication": {
+      "serviceAccountAuthConfig": {
+        "serviceAccount": "565127041402-compute@developer.gserviceaccount.com"
+      }
+    },
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}
