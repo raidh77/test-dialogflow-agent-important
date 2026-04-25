@@ -6,7 +6,7 @@
     "webhookType": "STANDARD",
     "serviceAgentAuth": "NONE",
     "serviceAccountAuthConfig": {
-      "serviceAccount": "565127041402-compute@developer.gserviceaccount.com"
+      "serviceAccount": "dps-compute@developer.gserviceaccount.com"
     }
   },
   "timeout": {
