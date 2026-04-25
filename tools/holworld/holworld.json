@@ -4,7 +4,7 @@
   "openApiSpec": {
     "authentication": {
       "serviceAccountAuthConfig": {
-        "serviceAccount": "565127041402-compute@developer.gserviceaccount.com"
+        "serviceAccount": "none-compute@developer.gserviceaccount.com"
       }
     },
     "ignoreUnknownFields": true
