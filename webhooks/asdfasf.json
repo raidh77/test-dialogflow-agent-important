@@ -10,6 +10,6 @@
     }
   },
   "timeout": {
-    "seconds": 5
+    "seconds": 1
   }
 }
